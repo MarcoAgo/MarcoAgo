@@ -27,7 +27,6 @@ Currently working in <a href="https://www.milkmantechnologies.com/">Milkman Tech
 
 ## 📫 How to reach me
 <p width="10px">📱<a href="https://www.linkedin.com/in/marco-agostinelli-44b53011a/">Linkedin</a></p>
-<br>
 <p width="10px">📧 <a href="mailto:marco.agostinelli1996@gmail.com">Email</a></p>
 <br>
 
