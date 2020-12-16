@@ -3,22 +3,11 @@
 I'm Marco Agostinelli, a curious Frontend Developer setted in Verona, Italy 🇮🇹
 <br>
 <br>
-Currently working in Milkman Tech Company, discover more <a href="https://www.milkmantechnologies.com/">here 🚚</a>
+Currently working in <a href="https://www.milkmantechnologies.com/">Milkman Tech 🚚</a>
 <br>
 <br>
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
 
 <p>
     <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
@@ -34,11 +23,12 @@ Here are some ideas to get you started:
     <img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 </p>
+<br>
 
 ## 📫 How to reach me
-📱 <a href="https://www.linkedin.com/in/marco-agostinelli-44b53011a/">Linkedin</a>
+<p width="10px">📱<a href="https://www.linkedin.com/in/marco-agostinelli-44b53011a/">Linkedin</a></p>
 <br>
-📧 <a href="mailto:marco.agostinelli1996@gmail.com">Email</a>
+<p width="10px">📧 <a href="mailto:marco.agostinelli1996@gmail.com">Email</a></p>
 <br>
 
 
