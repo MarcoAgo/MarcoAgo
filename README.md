@@ -3,7 +3,7 @@
 I'm Marco Agostinelli, a curious Frontend Developer setted in Verona, Italy 🇮🇹
 <br>
 <br>
-Currently working in <a href="https://www.milkmantechnologies.com/">Milkman Tech 🚚</a>
+Currently working in <a href="https://reverse.hr">Reverse HR 👯</a>
 <br>
 <br>
 
