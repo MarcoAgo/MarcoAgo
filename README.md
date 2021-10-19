@@ -22,6 +22,7 @@ Currently working in <a href="https://reverse.hr">Reverse HR 👯</a>
     <img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 </p>
 <br>
 
