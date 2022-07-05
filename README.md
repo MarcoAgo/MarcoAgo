@@ -3,7 +3,7 @@
 I'm Marco Agostinelli, a curious Frontend Developer setted in Verona, Italy 🇮🇹
 <br>
 <br>
-Currently working in <a href="https://www.aquest.it/">AQuest</a>
+Currently working in <a href="https://www.aquest.it/">AQuest</a> a Creative, Production & Technology company 💻
 <br>
 <br>
 
