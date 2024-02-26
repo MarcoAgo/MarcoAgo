@@ -26,7 +26,7 @@ Currently working in <a href="https://www.aquest.it/">AQuest</a> a Creative, Pro
 </p>
 <br>
 
-<a href="https://app.daily.dev/mister"><img src="https://api.daily.dev/devcards/v2/lEdZaA8gfsPMNmcjk3OXd.png?type=wide&r=sos" width="652" alt="Marco Agostinelli's Dev Card"/></a>
+<a target="_blank" href="https://app.daily.dev/mister"><img src="https://api.daily.dev/devcards/v2/lEdZaA8gfsPMNmcjk3OXd.png?type=wide&r=sos" width="652" alt="Marco Agostinelli's Dev Card"/></a>
 
 <br>
 
