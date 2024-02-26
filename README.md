@@ -26,6 +26,10 @@ Currently working in <a href="https://www.aquest.it/">AQuest</a> a Creative, Pro
 </p>
 <br>
 
+<a href="https://app.daily.dev/mister"><img src="https://api.daily.dev/devcards/v2/lEdZaA8gfsPMNmcjk3OXd.png?type=wide&r=sos" width="652" alt="Marco Agostinelli's Dev Card"/></a>
+
+<br>
+
 ## 📫 How to reach me
 <p width="10px">📱<a href="https://www.linkedin.com/in/marco-agostinelli-44b53011a/">Linkedin</a></p>
 <p width="10px">📧 <a href="mailto:marco.agostinelli1996@gmail.com">Email</a></p>
